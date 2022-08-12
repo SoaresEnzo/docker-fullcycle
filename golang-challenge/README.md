@@ -16,6 +16,8 @@ Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de
 
 Divirta-se
   
-#Como testar
+# Como testar
  - baixe esta pasta
  - utilize o comando "docker run enzosoa/codeeducation" dentro desta pasta
+
+  Repositório dockerhub: https://hub.docker.com/repository/docker/enzosoa/codeeducation
